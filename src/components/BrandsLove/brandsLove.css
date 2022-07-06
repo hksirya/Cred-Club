@@ -1,0 +1,12 @@
+.brands-love{
+    background-color: var(--white);
+    color:var(--bg-black);
+    padding:60px 0px;
+}
+
+.brands-love-heading{
+    font-size:30px;
+    font-weight: 600;
+    text-align: center;
+    margin: 20px 0px; 
+}
