@@ -8,7 +8,6 @@ Live-link : https://cred-club.netlify.app/
 The website is fully responsive.
 - The <b>navbar</b> changes into a hamburger menu . <b>useState</b> was used to keep track of the changing states . Spin animation was added to the hamburger menu with the use of : https://github.com/jonsuh/hamburgers.
 - <b>useEffect</b> was used to render the animation only when the user visits the section.
-- 
 - The same  <b>Button </b> was used many times in the whole webpage , so Button was made as a common component.
 - The  <b>Animations </b> were added using  : https://animista.net/
 - <b>Mobile scroll Section </b> was made by keeping 50% of the screen fixed and 50%  moving.
